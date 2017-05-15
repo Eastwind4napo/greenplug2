@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "936957768879",
+    "firebase_url": "https://greenplug-b8680.firebaseio.com",
+    "project_id": "greenplug-b8680",
+    "storage_bucket": "greenplug-b8680.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936957768879:android:5f80eb3ece8bdc7b",
+        "android_client_info": {
+          "package_name": "com.example.eastwind.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936957768879-ctck4qed5qco0egmevbhm0auk2b112qs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgpjaswWkbNaccWjkIMk6vqjtLztVplMk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

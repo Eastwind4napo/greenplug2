@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/ighouse"
+        android:icon="@drawable/ic_action_greenhouse"
+        android:title="@string/my_garden"/>
+
+    <item
+        android:id="@+id/ihome"
+        android:title="@string/home"
+        android:icon="@drawable/ic_action_name"/>
+
+    <item
+        android:id="@+id/ilog"
+        android:title="@string/plant_log"
+        android:icon="@drawable/ic_action_log"/>
+
+    <item
+        android:id="@+id/ianalytics"
+        android:icon="@drawable/ic_action_chart"
+        android:title="@string/analytics"/>
+
+    <item
+        android:id="@+id/ichat"
+        android:icon="@drawable/ic_action_chat"
+        android:title="@string/chat"/>
+
+
+
+</menu>
